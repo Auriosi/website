@@ -1,0 +1,8 @@
+* auriosi.xyz/ - home page, access to every tool and page
+* auriosi.xyz/portfolio - portfolio page
+* text.auriosi.xyz - text pasting site
+* blog.auriosi.xyz - blog site
+* images.auriosi.xyz - image hosting site
+* short.auriosi.xyz - url shortener/prettifier
+* gen.auriosi.xyz - content generator (such as qr codes)
+* convert.auriosi.xyz - file converter/ytp-dl
